@@ -45,7 +45,7 @@ I enjoy collaborating with multicultural teams, staying ahead of industry trends
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruit478&show_icons=true&theme=tokyonight" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruit478&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruit478&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ruit478&theme=tokyonight" />
 </p>
 
